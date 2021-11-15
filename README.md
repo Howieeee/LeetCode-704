@@ -1,2 +1,3 @@
 # LeetCode-704
-Binary Search
+##  Binary Search
+https://leetcode.com/problems/binary-search/
